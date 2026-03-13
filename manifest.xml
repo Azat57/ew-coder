@@ -2,16 +2,14 @@
 <OfficeApp
   xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
-  xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0"
   xsi:type="MailApp">
 
-  <Id>a1b2c3d4-e5f6-7890-abcd-ef1234567890</Id>
+  <Id>f7b2457b-cf59-4f2a-acdd-5b2c748019cf</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Azat57</ProviderName>
-  <DefaultLocale>ar-SA</DefaultLocale>
+  <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Early Warning Coder"/>
-  <Description DefaultValue="توليد رموز Early Warning تلقائياً لموضوع الرسائل"/>
+  <Description DefaultValue="Generate Early Warning codes for email subjects"/>
   <IconUrl DefaultValue="https://azat57.github.io/ew-coder/icon32.png"/>
   <HighResolutionIconUrl DefaultValue="https://azat57.github.io/ew-coder/icon64.png"/>
   <SupportUrl DefaultValue="https://azat57.github.io/ew-coder/"/>
